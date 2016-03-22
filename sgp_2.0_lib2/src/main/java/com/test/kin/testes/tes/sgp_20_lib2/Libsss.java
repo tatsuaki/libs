@@ -6,4 +6,5 @@ package com.test.kin.testes.tes.sgp_20_lib2;
  */
 public class Libsss {
     boolean test;
+    boolean test2;
 }
